@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://portfolio-elkq-pandey-sushmit.vercel.app/"><img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/public/logo.svg" alt="Portfolio" height="200" width="200"></a>
+  <a href="https://portfolio-elkq-pandey-sushmit.vercel.app/"><img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/public/logo.svg" alt="Portfolio" height="200" width="200"></a><br>
   Portfolio
 </h1>
 
