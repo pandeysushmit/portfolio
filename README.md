@@ -1,9 +1,6 @@
 <h1 align="center">
-  <br>
   <a href="https://portfolio-elkq-pandey-sushmit.vercel.app/"><img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/public/logo.svg" alt="Portfolio" height="200" width="200"></a>
-  <br>
   Portfolio
-  <br>
 </h1>
 
 <h4 align="center">Visit <a href="https://portfolio-elkq-pandey-sushmit.vercel.app/">Here</a></h4>
