@@ -10,7 +10,7 @@
 
 ## Screenshots
 <p align="center">
-<img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/assets/screenshots/home.png" alt="home" height="500"> <img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/assets/screenshots/overview.png" alt="home" height="300" width="407">
+<img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/assets/screenshots/home.png" alt="home" height="500"> <img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/assets/screenshots/overview.png" alt="home" height="270" width="407"> <img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/assets/screenshots/education.png" alt="home" height="270" width="407">
 </p>
 
 ## Tools Used
