@@ -9,7 +9,9 @@
 </p>
 
 ## Screenshots
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/assets/screenshots/home.png" alt="home" height="500"> <img src="https://raw.githubusercontent.com/pandeysushmit/portfolio/main/assets/screenshots/overview.png" alt="home" height="500" width="400">
+</p>
 
 ## Tools Used
 
