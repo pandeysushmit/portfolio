@@ -1,7 +1,5 @@
 import {
   creator,
-  bachelors,
-  school,
   web,
   javascript,
   html,
@@ -11,10 +9,10 @@ import {
   nodejs,
   mongodb,
   oracleSQL,
+  oracleLogo,
   express,
   mui,
   git,
-  threejs,
   memories,
   quiz,
 } from "../assets";
@@ -39,24 +37,16 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Problem Solving",
+    title: "Backend & Platform Engineering",
     icon: creator,
   },
   {
-    title: "Web Developer",
+    title: "AI Engineering",
     icon: web,
   },
 ];
 
 const technologies = [
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
   {
     name: "JavaScript",
     icon: javascript,
@@ -66,15 +56,15 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Express JS",
+    name: "Express.js",
     icon: express,
   },
   {
-    name: "React JS",
+    name: "React",
     icon: reactjs,
   },
   {
-    name: "Node JS",
+    name: "Node.js",
     icon: nodejs,
   },
   {
@@ -82,48 +72,54 @@ const technologies = [
     icon: mui,
   },
   {
-    name: "Redux Toolkit",
+    name: "Redux",
     icon: redux,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "Oracle SQL",
+    name: "Oracle Database 26ai",
     icon: oracleSQL,
+  },
+  {
+    name: "HTML",
+    icon: html,
+  },
+  {
+    name: "CSS",
+    icon: css,
   },
 ];
 
 const experiences = [
   {
-    title: "B.E.",
-    company_name: "MSRIT",
-    icon: bachelors,
+    title: "Associate Software Developer",
+    company_name: "Oracle",
+    icon: oracleLogo,
     iconBg: "#ffffff",
-    date: "December 2020 - Present",
+    date: "Aug 2024 - Present · Hybrid",
     points: [
-      "I am currently pursuing my bachelors in Information Science and Engineering",
-      "My Present CGPA(Till V Semester) is 9.08/10.",
-      "My Relevant Coursework include DSA,CN,OS,DBMS.",
-      "I have also secured 9th Rank in the College-level MQ+ Quiz (June,2022).",
+      "Drove backend delivery across two next-generation applications for Oracle Communications, spanning APIs, validation, data processing, import/export, search, and Kafka-based microservice integrations.",
+      "Tackled complex data-design and migration work, including foreign-key-based POCs, a MySQL-to-Oracle Database 26ai migration, and research into an NDB-to-InnoDB migration while preserving existing application data.",
+      "Received the Best SDE Fresher SPOT Award for Q3 FY25, recognizing contributions at Oracle Communications.",
+      "Improved validation performance by up to 90% in selected scenarios and import/export throughput by approximately 20%; reduced duplicate data-transfer code by around 30% and debugging effort by about 20% through refactoring, logging improvements, and OpenSearch observability.",
+      "Strengthened quality and operations through near-complete automated coverage for applicable features, resolution of around 15 critical bugs, proactive reporting of around 20 issues, and integrations with SonarQube, Grafana, Prometheus, and Fluentd.",
+      "Contributed to an AI agent governance framework for controlled, efficient agent use, integrating multiple MCP servers; also built reusable AI workflows for data-model design and documentation, reducing effort by approximately 40%.",
+      "Integrated SpecKit to support spec-driven development and more structured implementation planning.",
+      "Supported cross-team delivery through technical documentation, design discussions, demos, and peer support across engineering, architecture, QA, UI, and DevOps.",
     ],
   },
   {
-    title: "Senior Secondary",
-    company_name: "G.N.National Public School",
-    icon: school,
+    title: "Project Intern",
+    company_name: "Oracle",
+    icon: oracleLogo,
     iconBg: "#ffffff",
-    date: "April 2016 - March 2020",
+    date: "Jan 2024 - Jul 2024 · Remote",
     points: [
-      "I had studied here from my IX to XII Standard.",
-      "I had secured 95.8% in X Boards and 91.2% in XII Boards.",
-      "Got the First exposure to Coding here only.",
-      "Also, Secured State Rank 7 in NTSE Stage 1(November,2017).",
+      "Implemented Java REST endpoints and business-rule validations for core workflows, including data import/export and lifecycle-summary APIs.",
+      "Supported DevOps and performance testing by deploying Grafana/Prometheus monitoring on OKE and preparing JMeter test plans.",
     ],
   },
 ];

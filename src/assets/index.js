@@ -14,6 +14,7 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import oracleSQL from './tech/oracleSQL.png';
+import oracleLogo from "./oracle-logo.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
@@ -38,6 +39,7 @@ export {
   javascript,
   mongodb,
   oracleSQL,
+  oracleLogo,
   nodejs,
   reactjs,
   mui,
